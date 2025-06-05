@@ -70,7 +70,7 @@ I developed this comprehensive simulation encompassing data mapping, DSAR workfl
 
 ## 📫 Contact
 
-**Jyotishwar Racval**  
+**Jyotishwar Raval**  
 Email: [Jyotishwarraval@gmail.com]  
 LinkedIn: [https://www.linkedin.com/in/jyotishwarraval/]  
 GitHub: [https://github.com/Jyotishwar-Raval/)]
